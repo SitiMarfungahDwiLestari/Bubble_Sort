@@ -29,7 +29,7 @@ namespace Bubble_Sort
             Console.WriteLine("--------------------");
 
             //Pengguna memasukkan elemen pada array
-            for (int i = 0; i < n; i++);
+            for (int i = 0; i < n; i++)
             {
                 Console.Write("<" + (i + 1) + "> ");
                 string s1 = Console.ReadLine();
